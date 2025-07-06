@@ -1,0 +1,7 @@
+# requirements.txt para backend FastAPI
+fastapi
+uvicorn
+sqlalchemy
+passlib
+python-dotenv
+psycopg2-binary

@@ -1,0 +1,3 @@
+# requirements.txt para scripts ETL
+pandas
+yfinance
